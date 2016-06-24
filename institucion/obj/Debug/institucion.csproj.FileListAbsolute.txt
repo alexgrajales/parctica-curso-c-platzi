@@ -1,0 +1,10 @@
+c:\users\agrajales\documents\visual studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\institucion.exe.config
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\institucion.exe
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\institucion.pdb
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\obj\Debug\institucion.csprojResolveAssemblyReference.cache
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\obj\Debug\institucion.exe
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\obj\Debug\institucion.pdb
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\EntityFramework.dll
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\EntityFramework.xml
+C:\Users\agrajales\Documents\Visual Studio 2015\Projects\CursoPlatzi\institucion\institucion\bin\Debug\EntityFramework.SqlServer.xml
